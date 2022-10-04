@@ -40,7 +40,7 @@ The second available storage type is called HDD (Hard Disk Drive). These compone
 
 Your PSU (Power Supply Unit) is where all of the energy needed to give your build power comes from. Note that it doesn't necessarily generate power. Rather it draws power from an external source (like an outlet) and tranforms AC (high-voltage) electricity to DC (low-voltage) electricity. Converting this energy is essential so the original energy doesn't completely fry the parts. As to choosing how many watts you want, it is recommended to be around 100 watts above the systems requirement. It is very unlikely that you will be underpowered.
 
-<img height="400px" src="https://cdn11.bigcommerce.com/s-017c0/images/stencil/500x659/products/13476/57612/Western-Digital-WD5000AAKS-Hard-Drive-2__48996.1626290965.JPG?c=2">
+<img height="400px" src="https://www.lifewire.com/thmb/tuU9pqbf1-7MMYnY_JYVaMKvGc8=/786x524/filters:fill(auto,1)/power-supply-5aba984fba617700376b877f.PNG">
 
 ## Cooling
 
