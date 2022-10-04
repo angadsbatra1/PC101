@@ -1,5 +1,4 @@
-# What makes a PC?
-Thinking about building a PC but don't know where to even start? Look no further! This guide contains a list of the parts you will need to build one, along with brief descriptions of their functionalities. Let's get started!
+# Parts and Components
 
 ## CPU
 Your CPU (Central Processing Unit) is the "brain" of the system. It quickly gives instructions to the other components via arithmetic, logic, and binary sequences. The most common CPU manufacturers are Intel and AMD. Be careful of those pins on the back, they break easily!
