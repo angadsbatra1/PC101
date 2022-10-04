@@ -4,9 +4,13 @@ Thinking about building a PC but don't know where to even start? Look no further
 ## CPU
 Your CPU (Central Processing Unit) is the "brain" of the system. It quickly gives instructions to the other components via arithmetic, logic, and binary sequences. The most common CPU manufacturers are Intel and AMD. Be careful of those pins on the back, they break easily!
 
+<img src="https://e7.pngegg.com/pngimages/621/635/png-clipart-socket-am4-ryzen-advanced-micro-devices-central-processing-unit-microprocessor-ryzen-thread-electronic-device.png">
+
 ## GPU
 
 The GPU (Graphics Processing Unit) the 2nd most crucial component to your system (the first being the CPU). It's main purpose is to alter memory sequences to create whatever you wish to see on your monitor! By altering and manipulating memory sequences, a GPU's job is to render images and videos on your screen very quickly. This component is the main reason you can play games and watch movies at quality rates.
+
+<img src="https://www.pugetsystems.com/pic_disp.php?id=19414">
 
 ## Motherboard 
 
