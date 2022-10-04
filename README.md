@@ -56,4 +56,4 @@ Your case is the shelter for your parts. They have to be kept somewhere, don't t
 
 # What now?
 
-So you've chosen and purchased your parts. What next? Well, now you do the actual building. Relax, no one expects you to know how to build this off of the top of your head. There are many tutorials out there on platforms such as Youtube. You can click ![here](https://www.youtube.com/watch?v=PXaLc9AYIcg) to view a very simple one that I used to build my own computer when I was 14! I hope you found this breakdown helpful! Enjoy your new computer!
+So you've chosen and purchased your parts. What next? Well, now you do the actual building. Relax, no one expects you to know how to build this off of the top of your head. There are many tutorials out there on platforms such as Youtube. You can click [here](https://www.youtube.com/watch?v=PXaLc9AYIcg) to view a very simple one that I used to build my own computer when I was 14! I hope you found this breakdown helpful! Enjoy your new computer!
